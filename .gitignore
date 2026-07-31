@@ -1,0 +1,17 @@
+# Ignore personal work/data folders
+functions/
+scripts/
+scratch/
+garage/
+session/
+figures/
+data/
+
+# Ignore system/cache files
+__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+.vscode/
+dist/
+build/
